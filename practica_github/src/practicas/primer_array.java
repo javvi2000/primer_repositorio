@@ -8,7 +8,7 @@ public class primer_array {
 			for (int i=0; i<numero.length; i++){
 			numero [i] = i+1;
 			}
-			System.out.println("Viva España");
+			
 			System.out.println("Multiplos de 10: ");
 			System.out.println("");
 			for (int i=0; i<numero.length; i++){
