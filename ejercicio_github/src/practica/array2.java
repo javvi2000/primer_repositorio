@@ -14,7 +14,7 @@ public class array2 {
 					matriz[i][j]=opcion;
 				}
 			}
-			
+			System.out.println("Hala Madrid");
 			System.out.println("====================");
 			
 			for (int i = 0; i < matriz.length; i++){
