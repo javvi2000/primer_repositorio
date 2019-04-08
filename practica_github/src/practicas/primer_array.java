@@ -10,7 +10,7 @@ public class primer_array {
 			}
 			
 			System.out.println("Multiplos de 10: ");
-			
+			System.out.println("");
 			for (int i=0; i<numero.length; i++){
 			
 				if(numero[i]%10==0){
