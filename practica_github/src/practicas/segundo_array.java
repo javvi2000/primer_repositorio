@@ -13,7 +13,7 @@ public class segundo_array {
 						matriz[i][j]=opcion;
 					}
 				}
-				
+				System.out.println("Viva Espana");
 				System.out.println("====================");
 				
 				for (int i = 0; i < matriz.length; i++){
